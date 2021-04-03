@@ -1,0 +1,15 @@
+Name of Quantlet: 'FE5225_Homework'
+
+Published in: 'FE5225_Homework'
+
+Description: 'All of homework'
+
+Keywords: 'homework'
+
+Author: 'Chen Zebo, Hu Xueqin, Wang Kun, Fu Xueyang, Pan Chuanji'
+
+Submitted:  'Apr 2021, Chen Zebo'
+
+
+
+
